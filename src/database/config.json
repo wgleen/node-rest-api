@@ -1,0 +1,15 @@
+{
+  "development": {
+    "database": "node_rest_api_development", 
+    "username": "node_rest_api_user", 
+    "password": "qwerty", 
+    "host": "localhost",
+    "dialect": "postgres",
+    "pool": {
+      "max": 5,
+      "min": 0,
+      "idle": 10000
+    },
+    "operatorsAliases": false
+  }
+}
